@@ -1,5 +1,4 @@
-# asch-test-dapp
-Basic Asch Dapp
+# Basic Asch Dapp
 
 Files to set up an Asch Dapp easily.
 
