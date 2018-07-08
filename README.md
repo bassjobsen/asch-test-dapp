@@ -16,7 +16,7 @@ git clone https://github.com/bassjobsen/asch-test-dapp.git
 After that navigate to the new `asch-test-dapp` folder and follow the instruction at [Dapp Development Tutorial 1: Asch Dapp Hello World](https://github.com/AschPlatform/asch/blob/master/docs/dapp_docs/1_hello_en.md). Or simply run [asch-redeploy](https://github.com/AschPlatform/asch-redeploy):
 
 ```
-> sudo npm install asch-redeploy
+> sudo npm -g install asch-redeploy
 > cd asch-test-dapp
 > asch-redeploy
 ```
